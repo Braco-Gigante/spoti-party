@@ -1,0 +1,42 @@
+{
+    "project_info": {
+        "project_number": "364440708837",
+        "firebase_url": "https://dj-spotify.firebaseio.com",
+        "project_id": "dj-spotify",
+        "storage_bucket": "dj-spotify.appspot.com"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:364440708837:android:1e5ab9eda2958fe5",
+                "android_client_info": {
+                    "package_name": "com.example.djspotify"
+                }
+            },
+            "oauth_client": [
+                {
+                    "client_id": "364440708837-iaoajfsrm3bfm2nhd62d1r80a4jcpv85.apps.googleusercontent.com",
+                    "client_type": 3
+                }
+            ],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyDHE1lxCZe4-ELLKwB9LC6lpv11Wfm6w2k"
+                }
+            ],
+            "services": {
+                "analytics_service": {
+                    "status": 1
+                },
+                "appinvite_service": {
+                    "status": 1,
+                    "other_platform_oauth_client": []
+                },
+                "ads_service": {
+                    "status": 2
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}

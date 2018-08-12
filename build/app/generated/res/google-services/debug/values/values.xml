@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">364440708837-iaoajfsrm3bfm2nhd62d1r80a4jcpv85.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://dj-spotify.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">364440708837</string>
+    <string name="google_api_key" translatable="false">AIzaSyDHE1lxCZe4-ELLKwB9LC6lpv11Wfm6w2k</string>
+    <string name="google_app_id" translatable="false">1:364440708837:android:1e5ab9eda2958fe5</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDHE1lxCZe4-ELLKwB9LC6lpv11Wfm6w2k</string>
+    <string name="google_storage_bucket" translatable="false">dj-spotify.appspot.com</string>
+    <string name="project_id" translatable="false">dj-spotify</string>
+</resources>
